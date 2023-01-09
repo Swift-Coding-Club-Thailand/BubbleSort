@@ -3,6 +3,7 @@ Bubble Sort Algorithm for Swift Coding Club Advance
 
 # What is Bubble Sort??
 ![Bubble_sort_animation](https://user-images.githubusercontent.com/48949523/211254229-7fffed6f-f254-45e7-978b-8d1935b16b69.gif)
+![bubble-short](https://user-images.githubusercontent.com/48949523/211254316-3c9d6a89-d4b6-40d6-a304-5b7d534f94aa.png)
 - Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the input list element by element, comparing the current element with the one after it, swapping their values if needed. These passes through the list are repeated until no swaps had to be performed during a pass, meaning that the list has become fully sorted. The algorithm, which is a comparison sort, is named for the way the larger elements "bubble" up to the top of the list.
 - - -
 
