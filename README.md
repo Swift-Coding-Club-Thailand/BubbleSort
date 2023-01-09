@@ -14,7 +14,3 @@ Bubble Sort Algorithm for Swift Coding Club Advance
 4. Continue this process until you reach the end of the list.
 5. If you made any swaps, go back to the beginning of the list and repeat the process until you can go through the entire list without making any swaps.
 - - -
-
-# Example
-Here is some example of bubble sort
- - - -
