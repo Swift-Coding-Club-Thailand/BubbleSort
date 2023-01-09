@@ -16,6 +16,7 @@
 /*:
 # Example
 Here is some example of bubble sort
+ - - -
 */
 func bubbleSort(list: inout [Int]) {
     // Go through the list and compare each pair of items
